@@ -1,0 +1,7 @@
+Analisis de sistemas,1,Parodi,Natacha
+Analisis de sistemas,2,Perez,Julia
+Analisis de sistemas,3,Gomez,Franco
+Electricidad,1,Martinez,Valeria
+Electricidad,2,Lopez,Felipe
+Industria textil,1,Guerrero,Celeste
+Industria textil,3,Carmona,Graciela
